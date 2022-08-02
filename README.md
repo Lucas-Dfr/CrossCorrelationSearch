@@ -9,7 +9,7 @@ The user can find 3 distinct groups of files in this repository:
 
 - `/compare_methods.py/` and `/compare_methods_script.py/`. These files allow the user to compare the cross correlation method to the direct fitting method by plotting the re-normalized cross-correlation (RC) against the square root of the delta Cstat. 
 
-- `/classic_search/` is a modified version of the direct fitting method that searches for both emission and absorption lines at the same time and plot everything together. This file is required to use the `/compare_methods.py/` files.
+- `/classic_search/` is a modified version of the direct fitting method that searches for both emission and absorption lines at the same time and plot everything together. This file is required to use the `/compare_methods.py/` and `/compare_methods_script.py/` files.
 
 An empty `/output-files/` directory is provided as well as an example. This is the folder the cross correlation algorithm will generate to store the results.
 
