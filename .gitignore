@@ -127,3 +127,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# DS_strore on mac
+.DS_store
+
+# output_files
+*.eps
+*.pdf
+*.jpg
+*.png
+*.svg
+*.csv
+*.npy
+*.npz
+
