@@ -3,7 +3,7 @@ This repository contains an implementation in python 3 of a Gaussian line search
 
 ### What this repository contains
 
-The user can find 3 distinct groups of file in this repository:
+The user can find 3 distinct groups of files in this repository:
 
 - `/cross_correlation_search.py/` and `/cross_correlation_search_script.py/`. In these files you can find the implementation of the cross correlation method as well as an example of a script performing a simple search on a spectrum.
 
@@ -18,4 +18,4 @@ An empty `/output-files/` directory is provided as well as an example. This is t
 - `/numpy/` and `/pandas/` for handling files containing data
 - `/os/` and `/shutil/` for handling files and paths
 - `/time/` for performance measurement
-- `/matplotlib/` for plot using the SciencePlots module. Just type `> pip install SciencePlots`. (https://github.com/garrettj403/SciencePlots)
+- `/matplotlib/` for plots using the SciencePlots module. Just type `> pip install SciencePlots`. (details at https://github.com/garrettj403/SciencePlots)
