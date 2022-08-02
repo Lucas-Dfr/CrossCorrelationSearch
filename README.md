@@ -19,3 +19,5 @@ An empty `/output-files/` directory is provided as well as an example. This is t
 - `/os/` and `/shutil/` for handling files and paths
 - `/time/` for performance measurement
 - `/matplotlib/` for plots using the SciencePlots module. Just type `> pip install SciencePlots`. (details at https://github.com/garrettj403/SciencePlots)
+- `/PyXspec/` for spectral fitting
+- `/scipy.special/` for the calculation of the significance (error function)
