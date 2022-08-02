@@ -5,7 +5,7 @@ This repository contains an implementation in python 3 of a Gaussian line search
 
 The user can find 3 distinct groups of files in this repository:
 
-- `/cross_correlation_search.py/` and `/cross_correlation_search_script.py/`. In these files you can find the implementation of the cross correlation method as well as an example of a script performing a simple search on a spectrum.
+- `/cross_correlation_search.py/` and `/cross_correlation_search_script.py/`. In these files you can find the implementation of the cross correlation method as well as an example of a script performing a simple search on a spectrum. These files can work independently from all the others.
 
 - `/compare_methods.py/` and `/compare_methods_script.py/`. These files allow the user to compare the cross correlation method to the direct fitting method by plotting the re-normalized cross-correlation (RC) against the square root of the delta Cstat. 
 
